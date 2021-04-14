@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @quanhspdz
-- 👀 I’m interested in Android development
+- 👀 I’m interested in Android app development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on (not yet)
 - 📫 How to reach me: ankskymtp4869@gmail.com

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @quanhspdz
 - 👀 I’m interested in Android app development
 - 🌱 I’m currently learning Java and Android app development
-- 💞️ I’m looking to collaborate on (not yet)
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me: pc.quanhdz@gmail.com
 
 <!---
